@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there, I am Jasmine 👋
+- 🎓 Graduated from NUS with a Bachelor of Engineering (Electrical Engineering) and Minor in Data Engineering
+
+## 🔥 My GitHub's Stats
+![JL's GitHub stats](https://github-readme-stats.vercel.app/api?username=mysticalee&show_icons=true&theme=chartreuse-dark)
 
 <!--
 **MysticaLee/mysticalee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
